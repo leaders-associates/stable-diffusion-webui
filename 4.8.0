@@ -1,8 +1,7 @@
 Requirement already satisfied: opencv-python in d:\webui_160\venv\lib\site-packages (4.7.0.72)
 Collecting opencv-python
-  Using cached opencv_python-4.8.1.78-cp37-abi3-win_amd64.whl.metadata (20 kB)
+  Using cached opencv_python-4.8.1.78-cp37-abi3-win_amd64.whl (38.1 MB)
 Requirement already satisfied: numpy>=1.21.2 in d:\webui_160\venv\lib\site-packages (from opencv-python) (1.23.5)
-Using cached opencv_python-4.8.1.78-cp37-abi3-win_amd64.whl (38.1 MB)
 Installing collected packages: opencv-python
   Attempting uninstall: opencv-python
     Found existing installation: opencv-python 4.7.0.72
